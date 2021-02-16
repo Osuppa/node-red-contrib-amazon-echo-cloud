@@ -4,7 +4,7 @@ Alexa controlled Node-Red nodes supporting latest Amazon Echo devices
 
 **NO Alexa Skills required.**
 
-**NO cloud dependencies.**
+**Cloud dependencies version**
 
 ## Installation
 Install from your Node-RED Manage Palette
